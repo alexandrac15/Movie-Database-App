@@ -1,0 +1,10 @@
+C:\Users\aalex\source\repos\WindowsFormsApp first try\WindowsFormsApp first try\bin\Debug\WindowsFormsApp first try.exe.config
+C:\Users\aalex\source\repos\WindowsFormsApp first try\WindowsFormsApp first try\bin\Debug\WindowsFormsApp first try.exe
+C:\Users\aalex\source\repos\WindowsFormsApp first try\WindowsFormsApp first try\bin\Debug\WindowsFormsApp first try.pdb
+C:\Users\aalex\source\repos\WindowsFormsApp first try\WindowsFormsApp first try\obj\Debug\WindowsFormsApp first try.csprojAssemblyReference.cache
+C:\Users\aalex\source\repos\WindowsFormsApp first try\WindowsFormsApp first try\obj\Debug\WindowsFormsApp_first_try.Properties.Resources.resources
+C:\Users\aalex\source\repos\WindowsFormsApp first try\WindowsFormsApp first try\obj\Debug\WindowsFormsApp first try.csproj.GenerateResource.cache
+C:\Users\aalex\source\repos\WindowsFormsApp first try\WindowsFormsApp first try\obj\Debug\WindowsFormsApp first try.csproj.CoreCompileInputs.cache
+C:\Users\aalex\source\repos\WindowsFormsApp first try\WindowsFormsApp first try\obj\Debug\WindowsFormsApp first try.exe
+C:\Users\aalex\source\repos\WindowsFormsApp first try\WindowsFormsApp first try\obj\Debug\WindowsFormsApp first try.pdb
+C:\Users\aalex\source\repos\WindowsFormsApp first try\WindowsFormsApp first try\obj\Debug\WindowsFormsApp_first_try.MDB.resources
